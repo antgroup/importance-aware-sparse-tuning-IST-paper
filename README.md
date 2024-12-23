@@ -67,7 +67,6 @@ An example could be:
 bash llama_7B_LoRA_IST.sh 32 64 ./finetuned_result/r32_lr2e-4 0
 bash llama_7B_LoRA_IST.sh 32 64 ./finetuned_result/r32_lr1e-4 0
 ```
-You can also directly download the finetuned DoRA weights from [HF](https://huggingface.co/sliuau/DoRA-weights/tree/main/llama_dora_commonsense_checkpoints) and evaluate them with `llama2_7B_Dora_eval.sh` and `llama3_8B_Dora_eval.sh` to reproduce the result reported in the paper.
 
 ## Acknowledgement
 We greatly appreciate the contributions of two remarkable repositories: [LLM-Adapter](https://github.com/AGI-Edgerunners/LLM-Adapters), [PEFT](https://github.com/huggingface/peft). These projects have significantly benefited our work.
