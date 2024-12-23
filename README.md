@@ -16,7 +16,7 @@ limitations under the License.
 
 <div align="center">
 <h1 align="center"> Importance-aware Sparse Tuning </h1>
-
+</div>
 The Official PyTorch implementation of [**Layer-wise Importance Matters: Less Memory for Better Performance in PEFT of LLMs**](https://aclanthology.org/2024.findings-emnlp.109) [EMNLP 2024 Findings].
 [Kai Yao](https://kaiseem.github.io), Penglei Gao, Lichun Li, Yuan Zhao, Xiaofeng Wang, Wei Wang Jianke Zhu
 
